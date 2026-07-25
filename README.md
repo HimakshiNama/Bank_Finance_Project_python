@@ -6,40 +6,18 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on a bank lo
 The goal is to analyze key lending metrics, assess portfolio risk, and evaluate loan performance across various demographics, timeframes, and loan attributes to help financial managers make data-driven decisions.
 
 ---
+<img width="2400" height="1350" alt="1_Bank-Loan-Data-Analysis" src="https://github.com/user-attachments/assets/124c01e4-9377-4eb0-a80e-861275c575e1" />
 
-## 📊 Key Performance Indicators (KPIs)
-* **Total Applications:** 38,576 loans
-* **Total Funded Amount:** $435.76M
-* **Total Amount Received:** $473.07M
-* **Average Interest Rate:** 12.05%
-* **Average DTI Ratio:** 13.33%
+<img width="2400" height="2020" alt="2_Problem-Statement-Summary-KPIs" src="https://github.com/user-attachments/assets/411466a7-d2a7-4c86-9741-7ba81d8de348" />
 
-### 📈 Good vs. Bad Loan Metrics
-* **Good Loans (Fully Paid & Current):** **86.18%** (33,243 loans)
-  * **Funded Amount:** $370.22M
-  * **Amount Received:** $435.79M
-* **Bad Loans (Charged Off):** **13.82%** (5,333 loans)
-  * **Funded Amount:** $65.53M
-  * **Amount Received:** $37.28M
+<img width="2400" height="1980" alt="3_Good-Loan-vs-Bad-Loan-KPIs" src="https://github.com/user-attachments/assets/9a4caecc-ff3f-40fe-8b1f-76f3d5106f5a" />
 
----
+<img width="2400" height="1568" alt="4_Problem-Statement-Overview-of-Required-Charts" src="https://github.com/user-attachments/assets/ba50f38d-0a27-4e34-ab8c-065a4f90d640" />
 
-## 🔍 Visualizations & Insights Included
-1. **Monthly Trends:** Line & area charts tracking MTD applications, total funding, and received amounts over time.
-2. **Regional Analysis:** Horizontal bar charts visualizing state-by-state funding and repayment distribution.
-3. **Loan Term Analysis:** Donut chart showing funding splits across 36-month vs. 60-month loan terms.
-4. **Employment & Purpose Analysis:** Breakdown of funding levels by borrower employment tenure and primary loan purpose (e.g., debt consolidation, home improvement).
-5. **Home Ownership Breakdown:** Interactive Plotly treemap categorizing funding across home ownership statuses (Mortgage, Rent, Own).
+<img width="2400" height="2638" alt="5_Data-Science-Methodology" src="https://github.com/user-attachments/assets/1d2a71f4-b278-4a49-9564-5e5c181f2c9c" />
 
----
+<img width="2400" height="1512" alt="6_Key-Insights-and-Business-Impact" src="https://github.com/user-attachments/assets/f7b859e2-6150-493d-89b4-5e0567b8e73d" />
 
-## 🛠️ Tech Stack & Libraries
-* **Language:** Python 3
-* **Data Manipulation:** `pandas`, `numpy`
-* **Data Visualization:** `matplotlib`, `seaborn`, `plotly.express`
-* **Environment:** Google Colab / Jupyter Notebook
-
----
 
 ## 🚀 How to Run
 Click the badge below to open and execute the project directly in Google Colab:
