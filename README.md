@@ -1,5 +1,9 @@
 # 🏦 Bank Finance Project (Python Data Analysis)
 
+Click the thumbnail below to view the full presentation slides:
+
+[![View Slides](D:\importants\Downloads\Bank-Loan-Data-Analysis-ppt)]
+
 ## 📌 Project Overview
 This project performs an end-to-end Exploratory Data Analysis (EDA) on a bank loan dataset (~38.5k records) using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and **Plotly**. 
 
