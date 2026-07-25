@@ -2,8 +2,8 @@
 
 Click the thumbnail below to view the full presentation slides:
 
-[![View Slides](D:\importants\Downloads\Bank-Loan-Data-Analysis-ppt)]
-
+![Slide 1]("D:\importants\Downloads\Bank-Loan-Data-Analysis-ppt\1_Bank-Loan-Data-Analysis.png")
+![Slide 2]("D:\importants\Downloads\Bank-Loan-Data-Analysis-ppt\2_Problem-Statement-Summary-KPIs.png")
 ## 📌 Project Overview
 This project performs an end-to-end Exploratory Data Analysis (EDA) on a bank loan dataset (~38.5k records) using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and **Plotly**. 
 
